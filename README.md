@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Sayan
-- 👀 I’m interested in learning new things and doing experiments
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on (not right now)
-- 📫 How to reach me, you can mail me
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: it's a secret
+-  Hi, I’m Sayan
+-  I’m interested in learning new things and doing experiments
+-  Self Taught Prompt Enginner
+-  I’m currently learning python and java
+-  I’m looking to collaborate on (not right now)
+-  How to reach me, you can mail me
+-  Pronouns: He/him
+-  Fun fact: it's a secret
