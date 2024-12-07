@@ -3,6 +3,5 @@
 -  Self Taught Prompt Enginner
 -  I’m currently learning python and java
 -  I’m looking to collaborate on (not right now)
--  How to reach me, you can mail me
+-  How to reach me, Msg me on Discord @Kaito_san
 -  Pronouns: He/him
--  Fun fact: it's a secret
